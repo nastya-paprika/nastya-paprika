@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**nastya-paprika/nastya-paprika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data professional transitioning from QA to Data Science.**  
+5+ years as a Senior QA Engineer (Healthcare, Insurance, Trading) → completed an advanced, project-based DS program and built 18 end-to-end ML projects (I'll upload them here soon). 
+Now based in **Vancouver, Canada** and **open to opportunities**.
 
-Here are some ideas to get you started:
+- 🔭 Current focus: building portfolio, interview prep + Canada job search (DS/ML + Senior QA)
+- 🎯 Interests: Computer Vision, NLP, classical ML
+- 🌱 Currently learning: Databricks & AWS
+- 💬 **ping** me about **Data Science**, **ML**, **QA**, **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Stack
+
+**Languages & Data:** Python (pandas, NumPy), SQL (PostgreSQL, MS SQL)  
+**ML:** scikit-learn (LogReg/Linear, Trees, RF, XGBoost/LightGBM/CatBoost, SVM), pipelines, CV/NLP basics  
+**DL:** PyTorch, TensorFlow/Keras, torchvision, spaCy, BERT (intro)  
+**Analysis & Viz:** matplotlib, seaborn, Plotly, SHAP, phik  
+**QA (bonus):** exploratory/functional/regression/E2E/integration, API testing (Postman/Swagger), test documentation, mobile (Android/iOS) and accessibility testing  
+**Tools:** Git/GitHub, Jupyter, Azure DevOps/Jira, Charles Proxy
