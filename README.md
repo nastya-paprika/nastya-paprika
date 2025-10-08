@@ -4,7 +4,7 @@
 5+ years as a Senior QA Engineer (Healthcare, Insurance, Trading) → completed an advanced, project-based DS program and built 18 end-to-end ML projects (I'll upload them here soon). 
 Now based in **Vancouver, Canada** and **open to opportunities**.
 
-- 🔭 Current focus: building portfolio, interview prep + Canada job search (DS/ML + Senior QA)
+- 🔭 Current focus: building portfolio, interview prep + Canada job search (DS/ML/AI)
 - 🎯 Interests: Computer Vision, NLP, classical ML
 - 🌱 Currently learning: Databricks & AWS
 - 💬 **ping** me about **Data Science**, **ML**, **QA**, **Python**
